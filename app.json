@@ -94,7 +94,7 @@
     "StatusEmojies": {
       "description": "Add your favorites emojies for status likes",
       "required": false,
-      "value": "♥️,🤗,❤️,💞,❣️,💙,💛,🤍,💚,😍,🥰,💝,💖,💗,💓,💞,💕,❣️,💘,💟,🖤,🤎,💜,💫,🌸"
+      "value": "✨,🌹,🙃,❤️,✍🏻,☺️,🥹,💚,🤗,💞,😍,🥰"
     },
     "STATUS_MSG": {
       "description": "Status reply msg",
